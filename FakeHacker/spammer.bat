@@ -1,7 +1,7 @@
 :: This example batch script allows you to open a window that infinitely
 :: spams random green numbers in the terminal. You can close it at any time
-:: and it can be full-screened for good effect-- you can even flex on
-:: your friends!
+:: and it can be full-screened for good effect-- you can use it to flex on
+:: your friends that don't know about coding!
 
 :: In normal batch files, it would display the commands we are running to
 :: the user AS WELL AS the output. Here, we only want the cool numbers, so
